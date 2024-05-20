@@ -231,6 +231,9 @@
   <data name="&gt;&gt;AddShop.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="Delete.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
   <data name="Delete.Location" type="System.Drawing.Point, System.Drawing">
     <value>885, 142</value>
   </data>
@@ -255,6 +258,9 @@
   <data name="&gt;&gt;Delete.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
+  <data name="Number.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
   <data name="Number.Location" type="System.Drawing.Point, System.Drawing">
     <value>886, 112</value>
   </data>
@@ -275,6 +281,9 @@
   </data>
   <data name="&gt;&gt;Number.ZOrder" xml:space="preserve">
     <value>1</value>
+  </data>
+  <data name="label1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
   </data>
   <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
