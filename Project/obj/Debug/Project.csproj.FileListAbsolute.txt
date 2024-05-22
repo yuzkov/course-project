@@ -92,3 +92,7 @@ C:\Users\yuzko\OneDrive\Рабочий стол\C#\Project\Project\obj\Debug\Pro
 C:\Users\yuzko\OneDrive\Рабочий стол\C#\Project\Project\obj\Debug\Project.exe
 C:\Users\yuzko\OneDrive\Рабочий стол\C#\Project\Project\obj\Debug\Project.pdb
 C:\Users\yuzko\OneDrive\Рабочий стол\C#\Project\Project\bin\Debug\Project.pdb
+C:\Users\yuzko\OneDrive\Рабочий стол\C#\Project\Project\bin\Debug\Project.exe.manifest
+C:\Users\yuzko\OneDrive\Рабочий стол\C#\Project\Project\bin\Debug\Project.application
+C:\Users\yuzko\OneDrive\Рабочий стол\C#\Project\Project\obj\Debug\Project.exe.manifest
+C:\Users\yuzko\OneDrive\Рабочий стол\C#\Project\Project\obj\Debug\Project.application
